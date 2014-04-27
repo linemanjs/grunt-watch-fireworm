@@ -38,6 +38,7 @@
     "grunt"
   ],
   "dependencies": {
-    "underscore": "^1.6.0"
+    "underscore": "^1.6.0",
+    "fireworm": "^0.6.4"
   }
 }
